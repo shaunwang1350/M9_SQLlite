@@ -1,4 +1,4 @@
-# M9_SQLite_Challenge
+# SQLite_Challenge
 
 ### Objectives
 The goals of this challenge are to:
